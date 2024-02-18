@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+
+# Arquivos de configuração
+.env
+
+# Arquivos de build
+dist/
+build/
+
+# Arquivos de log
+logs/
+
+# Dependendo do seu editor/IDE, você pode querer adicionar diretórios específicos
+.idea/
+.vscode/
+
+# Dependendo do seu ambiente de desenvolvimento, você pode querer adicionar mais
+# arquivos/diretórios como logs, dumps, etc.
