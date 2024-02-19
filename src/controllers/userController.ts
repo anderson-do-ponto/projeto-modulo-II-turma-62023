@@ -42,7 +42,7 @@ class UserController {
       } else {
         res.status(401).json({
           message:
-            "Unauthorized: Invalid credentials. Check your email and password and try again.",
+            "Unauthorized",
         });
       }
     } catch (error) {
